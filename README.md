@@ -30,7 +30,7 @@ I'm a **Microsoft Certified Power BI Data Analyst (PL-300)** passionate about tr
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
 | **[Executive BI Dashboard](https://github.com/Ebram22/Adventure-Works-Executive-BI-Dashboard/blob/bfdbbd61f394da0aac522f9aecc05751fa1c7e59/README.md)** | Power BI, DAX, Figma | Built interactive report with RFM segmentation and dynamic field parameters. |
-| **[Digital Music Store Analytics]([./link-to-repo](https://github.com/Ebram22/Chinook-Music-Store-End-to-End-SQL-Business-Analytics))** | MySQL | "Performed cohort and Pareto analysis using advanced SQL to evaluate customer retention and sales performance." |
+| **[Digital Music Store Analytics](https://github.com/Ebram22/Chinook-Music-Store-End-to-End-SQL-Business-Analytics/blob/7171c59c9b63ab4c6c6f36bf032ca261f3f098f5/README.md)** | MySQL | "Performed cohort and Pareto analysis using advanced SQL to evaluate customer retention and sales performance." |
 | **[Sales & Revenue Workspace](./link-to-repo)** | Power Query, SQL | Cleaned, transformed, and modeled historical sales data to track KPIs. |
 
 ---
